@@ -1,0 +1,21 @@
+.footer{
+    background-color: #000000;
+    color: #fff;
+}
+
+.icons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.icon{
+    margin-right: 16px;
+}
+
+.year{
+    vertical-align: center;
+    margin-right: 800px;
+    margin-left: 165px;
+}
+

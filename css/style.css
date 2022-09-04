@@ -1,0 +1,8 @@
+/* использованы стили документации https://github.com/rtplv/airbnb-css-ru */
+* {
+    box-sizing: border-box;
+}
+
+header{
+    margin-bottom: 15px;
+}
